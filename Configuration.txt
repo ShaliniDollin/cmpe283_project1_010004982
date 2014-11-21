@@ -1,0 +1,28 @@
+https://130.65.132.102/sdk
+administrator
+12!@qwQW
+20
+3
+5
+https://130.65.132.14/sdk
+3
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------
+Datacentre url
+username
+password
+Snapshot interval
+Ping Interval
+Stat interval
+Administrator url
+Re-ping counter
